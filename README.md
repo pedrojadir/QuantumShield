@@ -16,3 +16,12 @@
 2. **Clone o repositório:**
    ```bash
    git clone https://github.com/seu-usuario/QuantumShield.git
+
+3. **Execute o script:**
+   python port_scanner.py
+
+## Conbtribuições
+Sinta-se à vontade para abrir Issues ou Pull Requests se encontrar problemas ou tiver melhorias para sugerir.
+
+## Licença
+Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
