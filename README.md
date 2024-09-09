@@ -1,5 +1,8 @@
 # Quantum Shield - Automação de Tarefas de Segurança
 
+**Quantum Shield: Framework de Segurança Cibernética**
+Descrição Geral: O Quantum Shield é um framework de segurança cibernética que integra múltiplas ferramentas e técnicas para análise de vulnerabilidades, automação de tarefas de segurança, configuração de ambientes seguros, simulação de ataques e defesa, e análise de logs de segurança. Este projeto visa fornecer uma solução abrangente para a segurança de redes e sistemas, com foco em práticas automatizadas e documentação robusta.
+
 ## 1° Módulo
 
 **Descrição:** Este módulo do Quantum Shield realiza a varredura de portas em uma rede utilizando o Nmap. Ele foi desenvolvido em Python e tem como objetivo automatizar tarefas básicas de segurança.
